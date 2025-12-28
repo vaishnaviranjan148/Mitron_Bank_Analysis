@@ -2,6 +2,8 @@
 ## Project Summary
 Mitron Bank project analyzes customer demographics, income utilization, and spending behavior for a banking dataset using Power BI. The dashboard provides insights into customer age groups, gender, occupation, city-wise distribution, and payment preferences. Key KPIs highlight total spend, average spend per customer, and income utilization levels. The analysis helps identify high-value customer segments, major spending categories, and regional trends, supporting better marketing, product, and customer engagement decisions.
 
+[Click here to view Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=fe3bc2ae-ad90-4bc6-bca5-bfddf809d1d5&autoAuth=true&ctid=3ffff7b6-7ef4-4fa4-8fea-798ab0455714)
+
 ## Table of Content
 1. [Tool Used](#tool-used)
 2. [Business Objective](#business-objective)
